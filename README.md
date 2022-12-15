@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Merve OKTAY
 - 👩🏻‍🎓 I’m a Computer Engineer
-- 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning Java, Python and NLP
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Java and Kotlin
 
 
 
