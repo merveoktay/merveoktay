@@ -32,17 +32,18 @@
 
 <br />
 
+
+[kotlin]: https://kotlinlang.org/
+[java]: https://www.w3schools.com/java/
+[cpp]: https://www.cplusplus.com/
+[csharp]:https://www.w3schools.com/cs/index.php/
+[python]: https://www.python.org/
+[tensorflow]: https://www.tensorflow.org/
 [vsCode]: https://code.visualstudio.com/
 [postgresql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/merveoktay/
-[kotlin]: https://kotlinlang.org/
-[cpp]: https://www.cplusplus.com/
-[csharp]:https://www.w3schools.com/cs/index.php/
-[java]: https://www.w3schools.com/java/
-[python]: https://www.python.org/
-[tensorflow]: https://www.tensorflow.org/
-[csharp]:https://www.w3schools.com/cs/index.php/
+
 
 <br />
 
