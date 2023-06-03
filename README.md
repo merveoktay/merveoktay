@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve OKTAY</h1>
 <h3 align="center">Junior Android Developer</h3>
 <br/> 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=merveoktay&label=Profile%20views&color=b40e56&style=flat-square" alt="merveoktay" /> </p> 
+
 
 - 👩🏻‍🎓 I graduated from Karadeniz Technical University Computer Engineering Department.
 - 🔭 I’m currently working on **Turkcell - Geleceği Yazanlar (Intern Android Developer)**
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <br/> 
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=merveoktay&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="mukireus"/><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=merveoktay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="mukireus"/>
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=merveoktay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="mukireus"/>
 
 
 
