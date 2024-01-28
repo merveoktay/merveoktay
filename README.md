@@ -4,7 +4,6 @@
 
 
 - 👩🏻‍🎓 I graduated from Karadeniz Technical University Computer Engineering Department.
-- 🔭 I’m currently working on **Turkcell (Intern Android Developer)**
 - 👀 I’m interested in Android 
 - 🌱 I’m currently learning Java and Kotlin 
 <br/>
